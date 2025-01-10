@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import { Logo, Menu } from './assets/Icons';
+// Import
 export default function Home() {
   return (
     <main
